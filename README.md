@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/NSSahana-16/DSA-in-C/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
