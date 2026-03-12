@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/NSSahana-16/DSA-in-C/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/NSSahana-16/DSA-in-C/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/NSSahana-16/DSA-in-C/tree/master/1688-count-of-matches-in-tournament) |
+| [2119-a-number-after-a-double-reversal](https://github.com/NSSahana-16/DSA-in-C/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/NSSahana-16/DSA-in-C/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/NSSahana-16/DSA-in-C/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/2600-k-items-with-the-maximum-sum) |
