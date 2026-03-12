@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NSSahana-16/DSA-in-C/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/NSSahana-16/DSA-in-C/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/NSSahana-16/DSA-in-C/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/NSSahana-16/DSA-in-C/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/NSSahana-16/DSA-in-C/tree/master/1025-divisor-game) |
