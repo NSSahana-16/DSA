@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NSSahana-16/DSA-in-C/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/NSSahana-16/DSA-in-C/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NSSahana-16/DSA-in-C/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/NSSahana-16/DSA-in-C/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NSSahana-16/DSA-in-C/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NSSahana-16/DSA-in-C/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NSSahana-16/DSA-in-C/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NSSahana-16/DSA-in-C/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NSSahana-16/DSA-in-C/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/NSSahana-16/DSA-in-C/tree/master/1051-height-checker) |
 ## Counting Sort
