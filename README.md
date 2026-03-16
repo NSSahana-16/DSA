@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/NSSahana-16/DSA-in-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
