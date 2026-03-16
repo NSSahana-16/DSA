@@ -72,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/NSSahana-16/DSA-in-C/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NSSahana-16/DSA-in-C/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NSSahana-16/DSA-in-C/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
+| [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NSSahana-16/DSA-in-C/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NSSahana-16/DSA-in-C/tree/master/0344-reverse-string) |
+| [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/NSSahana-16/DSA-in-C/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NSSahana-16/DSA-in-C/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
