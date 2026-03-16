@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NSSahana-16/DSA-in-C/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NSSahana-16/DSA-in-C/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
