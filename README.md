@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NSSahana-16/DSA-in-C/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
