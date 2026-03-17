@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NSSahana-16/DSA-in-C/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/NSSahana-16/DSA-in-C/tree/master/0225-implement-stack-using-queues) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NSSahana-16/DSA-in-C/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NSSahana-16/DSA-in-C/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NSSahana-16/DSA-in-C/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
