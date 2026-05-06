@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/NSSahana-16/DSA-in-C/tree/master/1025-divisor-game) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/NSSahana-16/DSA-in-C/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/NSSahana-16/DSA-in-C/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/NSSahana-16/DSA-in-C/tree/master/1051-height-checker) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/NSSahana-16/DSA-in-C/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NSSahana-16/DSA-in-C/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NSSahana-16/DSA-in-C/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/NSSahana-16/DSA-in-C/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
