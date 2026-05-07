@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NSSahana-16/DSA-in-C/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NSSahana-16/DSA-in-C/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/NSSahana-16/DSA-in-C/tree/master/0134-gas-station) |
+| [0239-sliding-window-maximum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NSSahana-16/DSA-in-C/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/NSSahana-16/DSA-in-C/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NSSahana-16/DSA-in-C/tree/master/0922-sort-array-by-parity-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NSSahana-16/DSA-in-C/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Design
 |  |
@@ -137,4 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NSSahana-16/DSA-in-C/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
