@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NSSahana-16/DSA-in-C/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/NSSahana-16/DSA-in-C/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/NSSahana-16/DSA-in-C/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NSSahana-16/DSA-in-C/tree/master/0876-middle-of-the-linked-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NSSahana-16/DSA-in-C/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/NSSahana-16/DSA-in-C/tree/master/0138-copy-list-with-random-pointer) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/NSSahana-16/DSA-in-C/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2418-sort-the-people](https://github.com/NSSahana-16/DSA-in-C/tree/master/2418-sort-the-people) |
 ## Two Pointers
